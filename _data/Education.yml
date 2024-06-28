@@ -3,15 +3,15 @@ listing-order: 1
 #icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: PhD in Ecology and Evolutionary Biology
-  University of British Columbia, Vancouver, Canada
+    institution: University of British Columbia, Vancouver, Canada
     description:
       - Thesis: Ecological and Evolutionary Consequences of Spatial and Temporal Environmental Heterogeneity in Song Sparrows
       - Technical proficienies: Next-generation sequencing (NGS) genomic analyses, bioinformatics, machine learning modelling, species distribution and demographic modelling.
     date: Sept. 2019 - Aug. 2024
   - title: Bachelor of Science in Environmental Science
-  Canisius University, New York, United States
+    institution: Canisius University, New York, United States
     description:
-      - 
-      - 
+      - x
+      - x
     grade: "**GPA**: `3.92/4.00`"
     date: 2013 - 2017
