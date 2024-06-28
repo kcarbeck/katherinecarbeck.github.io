@@ -5,20 +5,21 @@ icon_img: /assets/img/icon.webp
 name: "Katherine Carbeck"
 job: "Evolutionary Biology & Genomics"
 
-phone_number: 012-345-6789
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
+#phone_number: 012-345-6789
+address: Vancouver, BC
+email: katherinecarbeck (at) gmail.com
+linkedin_username: katherine-carbeck
+github_username: kcarbeck
+# google scholar: 
+#instagram_username: instagram
+#twitter_username: twitter
+#facebook_username: facebook
+#youtube_username: youtube
+#blog_url: homepage-url
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
-baseurl: "https://katherinecarbeck.github.io/".
+baseurl: https://katherinecarbeck.github.io/myresume/
 
 exclude:
   - _posts/
